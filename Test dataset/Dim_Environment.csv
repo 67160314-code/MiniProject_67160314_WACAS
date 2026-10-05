@@ -1,0 +1,4 @@
+﻿Environment_ID,Weather_Condition,Signal_Interference
+1,ปกติ (Clear),Low
+2,ฝนตกหนัก (Heavy Rain),Medium
+3,พายุลมแรง (Strong Wind),High
